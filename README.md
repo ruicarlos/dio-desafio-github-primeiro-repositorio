@@ -1,2 +1,8 @@
-# dio-desafio-github-primeiro-repositorio
-Desafio Dio, Criação e clonagem de Repositório Git/GitHub
+# Dio-desafio-github-primeiro-repositorio :computer:
+
+Entrega do Desafio DIO-  Criando Primeiro Diretório Git\Hub
+
+Esse Repositório simular o Controle de Anotações de Aulas:
+
+- Informacoes do Curso.
+	> AulaX.txt.
